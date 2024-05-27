@@ -1,0 +1,29 @@
+{
+    "Que":
+    {"q1":"1_Are you a college student? ","q2":"2_what is the output 2*1? ",
+    "q3":"3_what is the output 2*2 ? ","q4":"4_what is the output 2*3 ? ",
+    "q5":"5_what is the output 2*4 ? ","q6":"6_what is the output 2*5 ? ",
+    "q7":"7_what is the output 2*6? ","q8":"8_what is the output 2*7 ? ",
+    "q9":"9_what is the output 2*8 ? ","q10":"10_what is the output 2*9 ?",
+    "q11":"11_what is the output 2*10 ? ","q12":"12_what is the output 3*1 ? ",
+    "q13":"13_what is the output 3*2 ? ","q14":"14_what is the output 3*3 ? ",
+    "q15":"15_what is the output 3*4 ? ","q16":"16_what is the output 3*5 ? ",
+    "q17":"17_what is the output 3*6 ? ","q18":"18_what is the output 3*7 ? ",
+    "q19":"19_what is the output 3*8 ? ","q20":"20_what is the output 3*9 ? ",
+    "q21":"21_ what is the output 3*10? "},
+
+
+    "Ans":
+    ["yes","2",
+    "4","6",
+    "8","10",
+    "12","14",
+    "16","18",
+    "20","3",
+    "6","9",
+    "12","15",
+    "18","21",
+    "24","27",
+    "30"]
+
+}
